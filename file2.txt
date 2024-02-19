@@ -1,4 +1,4 @@
-  UID   PID  PPID   C STIME   TTY           TIME CMD
+   UID   PID  PPID   C STIME   TTY           TIME CMD
     0     1     0   0 Thu01PM ??         2:24.16 /sbin/launchd
     0    87     1   0 Thu01PM ??         0:53.81 /usr/libexec/logd
     0    88     1   0 Thu01PM ??         0:03.89 /usr/libexec/UserEventAgent (System)
